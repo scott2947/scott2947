@@ -1,5 +1,25 @@
-## Hi there 👋
+## Hi there I'm Callum 👋
 
+I'm a Computer Science Student at University of Southampton, with strong interests in machine learning and robotics.
+
+### 🔭 I'm currently working on...
+1. yogen - a machine learning project aiming to predict stock prices (primarily as an introduction into predicting time series data)
+2. theia - a robotics project aiming to use computer vision to navigate obstacle courses with a wheeled robot
+
+### 🌱 I'm currently learning...
+- Machine learning
+- Data science
+- Data visualisation with Streamlit (to share my work with others)
+
+### 💬 Ask me about...
+- Any of my projects
+- Machine learning in general
+
+### 📫 How to reach me...
+- LinkedIn: [Callum Scott](https://www.linkedin.com/in/callum-scott-5b86a6351)
+- Email: [Callum Scott](bargain-dale-8m@icloud.com)\*
+
+\* This is an iCloud email address that masks my personal email address (to help reduce spam sent to my personal account). After reaching out to me, I'm happy to provide you with my personal email address going forwards
 <!--
 **scott2947/scott2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
