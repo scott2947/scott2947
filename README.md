@@ -17,9 +17,7 @@ I'm a Computer Science Student at University of Southampton, with strong interes
 
 ### 📫 How to reach me...
 - LinkedIn: [Callum Scott](https://www.linkedin.com/in/callum-scott-5b86a6351)
-- Email: [Callum Scott](bargain-dale-8m@icloud.com)\*
-
-\* This is an iCloud email address that masks my personal email address (to help reduce spam sent to my personal account). After reaching out to me, I'm happy to provide you with my personal email address going forwards
+- Email: [Callum Scott](scott2947.dev@gmail.com)
 <!--
 **scott2947/scott2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
