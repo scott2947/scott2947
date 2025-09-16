@@ -4,7 +4,7 @@ I'm a Computer Science Student at University of Southampton, with strong interes
 
 ### 🔭 I'm currently working on...
 1. yogen - a machine learning project aiming to predict stock prices (primarily as an introduction into predicting time series data)
-2. theia - a robotics project aiming to use computer vision to navigate obstacle courses with a wheeled robot
+2. thea - a robotics project aiming to use computer vision to navigate obstacle courses with a wheeled robot
 
 ### 🌱 I'm currently learning...
 - Machine learning
@@ -16,7 +16,7 @@ I'm a Computer Science Student at University of Southampton, with strong interes
 - Machine learning in general
 
 ### 📫 How to reach me...
-- LinkedIn: [Callum Scott](https://www.linkedin.com/in/callum-scott-5b86a6351)
+- LinkedIn: [Callum Scott](https://www.linkedin.com/in/callum-scott2947)
 - Email: [Callum Scott](scott2947.dev@gmail.com)
 <!--
 **scott2947/scott2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
