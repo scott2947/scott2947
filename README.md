@@ -1,19 +1,21 @@
 ## Hi there I'm Callum 👋
 
-I'm a Computer Science Student at University of Southampton, with strong interests in machine learning and robotics.
+I'm a 2nd year Computer Science Student at University of Southampton, with strong interests in robotics and data science (including Machine Learning for both).
 
 ### 🔭 I'm currently working on...
-1. yogen - a machine learning project aiming to predict stock prices (primarily as an introduction into predicting time series data)
-2. thea - a robotics project aiming to use computer vision to navigate obstacle courses with a wheeled robot
+1. thea - a robotics project aiming to use computer vision to collect tennis balls
+2. My degree - currently focusing on computer systems, formal methods, programming language theory and software engineering processes
 
 ### 🌱 I'm currently learning...
-- Machine learning
-- Data science
-- Data visualisation with Streamlit (to share my work with others)
+- Data Science in Python
+- Machine Learning in Python
+- C/C++
+- Fusion
+- KiCad
 
 ### 💬 Ask me about...
 - Any of my projects
-- Machine learning in general
+- Work opportunities
 
 ### 📫 How to reach me...
 - LinkedIn: [Callum Scott](https://www.linkedin.com/in/callum-scott2947)
